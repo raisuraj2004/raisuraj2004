@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Surya Prakash Rai 
+
 # 📚 About Me
 
 I'm a B.Tech student in Computer Science & Tech. (Major - AI), Passionate about Development & Open Source  
@@ -13,11 +14,11 @@ Fun fact: I love building projects that solve real-world problems
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/deadhok)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deadhok/)
 
-
 ---
+
 ## ⚡ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
