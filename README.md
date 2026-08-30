@@ -9,6 +9,7 @@ Fun fact: I love building projects that solve real-world problems
 ---
 
 ## 🔗 Connect with Me
+[![Codeforces](https://codeforces.com/codeforces.org/s/84485/images/codeforces-sponsored-by-ton.png)](https://codeforces.com/profile/rai_suraj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surya-rai-33773a229/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/raisuraj2004)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/deadhok)
