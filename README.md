@@ -2,9 +2,11 @@
 
 # 📚 About Me
 
-I'm a B.Tech student in Computer Science & Tech. (Major - AI), Passionate about Development & Open Source  
-Currently learning: Data Structures, Algorithms, and Web Development  
-Fun fact: I love building projects that solve real-world problems  
+Computer Science undergraduate (CGPA 8.54, graduating 2028) with strong Data Structures & Algorithms fundamentals and three end-to-end production-style projects in
+backend systems, automated testing, and NLP. Experienced with object-oriented design (Python/Java), REST API development at
+scale (rate limiting, caching, session management), Dockerized deployments, automated test suites (pytest), and production
+health monitoring. Comfortable picking up new tools and languages quickly, and working through ambiguous, self-directed
+problems end to end. 
 
 ---
 
